@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    tools:context=".OnemliBilgiler">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Yazı makinesi: Ahmet Mithat Efendi "
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Istırap şairi: Fuzuli"
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sultanü’ş-şuara (şairler sultanı): Baki"
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hiciv üstadı: Nefi "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hacı kalfa: Kâtip Çelebi "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Zevk-eğlence şairi: Nedim "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lale devri şairi: Nedim "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Vatan şairi: Namık Kemal "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hürriyet şairi: Namık Kemal "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Şair-i Azam: Abdülhak Hamit Tarhan "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tezatlar şairi: Abdülhak Hamit Tarhan "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mistik şair: Necip Fazıl Kısakürek "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Milli şair/Türk şairi: Mehmet Emin Yurdakul "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ağıtlar şairi: Recaizade Mahmut Ekrem "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Bayrak şairi: Arif Nihat Asya "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Evler şairi: Behçet Necatigil "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Yazı makinesi: Ahmet Mithat Efendi "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="İstanbul şairi: Yahya Kemal Beyatlı "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ümmetçi şair: Mehmet Akif Ersoy "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Anadolu şairi: Ömer Bedrettin Uşaklı "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Deli Ozan, Çamdeviren: Faruk Nafiz Çamlıbel"
+                android:background="@drawable/button_background2"/>
+                />
+
+            <Button
+                android:id="@+id/button20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sokağı şiire getiren şair: Orhan Veli Kanık "
+                android:background="@drawable/button_background2"/>
+            />
+
+            <Button
+                android:id="@+id/button19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Kirpi: Refik Halit Karay "
+                android:background="@drawable/button_background2"/>
+            />
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/arkaplan"
+    tools:context=".GirisMenu">
+
+
+    <Button
+        android:id="@+id/yazareserButton"
+        android:layout_width="286dp"
+        android:layout_height="67dp"
+        android:background="@drawable/button_background"
+        android:fontFamily="@font/artifika"
+        android:onClick="yazareser"
+        android:text="YAZAR - ESER"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.612"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.036" />
+
+    <Button
+        android:id="@+id/onemlibilgilerButton"
+        android:layout_width="291dp"
+        android:layout_height="97dp"
+        android:background="@drawable/button_background"
+        android:fontFamily="@font/artifika"
+        android:onClick="onemlibilgiler"
+        android:text="TÜRK ED. SANATÇILARININ UNVANLARI"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.645"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.277" />
+
+    <Button
+        android:id="@+id/onemlibilgilerButton2"
+        android:layout_width="286dp"
+        android:layout_height="67dp"
+        android:background="@drawable/button_background"
+        android:fontFamily="@font/artifika"
+        android:onClick="kendinidene"
+        android:text="KENDİNİ DENE "
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.612"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.754" />
+
+    <Button
+        android:id="@+id/turkedebiyatindailkler"
+        android:layout_width="286dp"
+        android:layout_height="67dp"
+        android:background="@drawable/button_background"
+        android:fontFamily="@font/artifika"
+        android:onClick="ilkler"
+        android:text="Türk Edebiyatında İlkler"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.612"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.547" />
+
+    <Button
+        android:id="@+id/cikisButton"
+        android:layout_width="286dp"
+        android:layout_height="67dp"
+        android:background="@drawable/button_background"
+        android:fontFamily="@font/artifika"
+        android:onClick="cikis"
+        android:text="ÇIKIŞ"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.612"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.963" />
+
+</android.support.constraint.ConstraintLayout>

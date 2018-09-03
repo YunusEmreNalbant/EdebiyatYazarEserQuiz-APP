@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IlklerMenu">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:text="İlk alfabe: Göktürk (Orhun) alfabesi"
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button38"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:text="Bilinen ilk Türk şairi: Arpınçur Tigin "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button37"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Bilinen en eski ve ilk destanımız: “Alp Er Tunga Destanı” "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button36"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="İlk İslami Türk destanı: “Satuk Buğra Han Destanı”"
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button35"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Türkçenin bilinen ilk sözlüğü:                                               “Divanü Lü- gati’t-Türk” "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button34"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:text="Divan sahibi ilk sanatçı: Yunus Emre "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button33"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:text="İlk edebi anı: Babürşah’ın “Babürname”si "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button32"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:text="Matbaada basılan ilk yapıt: “Vankulu Lügati” "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button31"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Noktalama işaretlerini düzyazıda ilk kez kullanan: Şinasi "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button30"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Batılı anlamda ilk fabl örneklerini yazan: Şinasi "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button29"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:text="İlk tarihi roman: Namık Kemal’in “Cezmi”si "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button28"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="İlk edebi roman: Namık Kemal’in “İntibah” adlı romanı "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button27"
+                android:layout_width="match_parent"
+                android:layout_height="59dp"
+                android:text="İlk kafiyesiz şiir: Abdülhak Hamit Tarhan’ın yazdığı “Validem” "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button26"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="İlk pastoral şiir: Abdülhak Hamit Tarhan’ın “Sahra”sı "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:text="İlk polisiye roman: Ahmet Mithat Efendi’nin “Esrar-ı Cinayet” adlı romanı "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button58"
+                android:layout_width="match_parent"
+                android:layout_height="54dp"
+                android:text="Batılı anlamda ilk antoloji: Ziya Paşa’nın üç ciltlik “Harabat”ı "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button57"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:text="İlk köy romanı: Nabizade Nazım’ın “Karabibik”i "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button56"
+                android:layout_width="match_parent"
+                android:layout_height="53dp"
+                android:text="İlk realist roman: Recaizade Mahmut Ekrem’in “Araba Sevdası” "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button55"
+                android:layout_width="match_parent"
+                android:layout_height="53dp"
+                android:text="Çocuklara yönelik ilk dergi: 1869’da çıkan Mümeyyiz "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button54"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:text="İlk kadın romancı: Fatma Aliye Hanım "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button53"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:text="İlk psikolojik roman denemesi: Nabizade Nazım’ın “Zehra”sı "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button52"
+                android:layout_width="match_parent"
+                android:layout_height="54dp"
+                android:text="İlk psikolojik roman: Mehmet Rauf’un “Eylül” romanı "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button51"
+                android:layout_width="match_parent"
+                android:layout_height="54dp"
+                android:text="Çocuklar için yazılmış ilk şiir kitabı: Tevfik Fikret’in “Şermin” yapıtı "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button50"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:text="İlk önemli fıkra yazarı: Ahmet Rasim "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button49"
+                android:layout_width="match_parent"
+                android:layout_height="53dp"
+                android:text="İlk epik tiyatro: Haldun Taner’in “Keşanlı Ali Destanı” adlı yapıtı "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button48"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:text="İlk TDK şiir ödülü: “Delice Böcek” şiiriyle Fazıl Hüsnü Dağlarca "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button47"
+                android:layout_width="match_parent"
+                android:layout_height="51dp"
+                android:text="“Milli Edebiyat” ifadesi ilk kez kullanılan: Genç Kalemler "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button46"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="Türk sözcüğünü ilk kullanan şair: Mehmet Emin Yurdakul "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button45"
+                android:layout_width="match_parent"
+                android:layout_height="54dp"
+                android:text="Batılı anlamda ilk edebiyat tarihi: Fuat Köprülü "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button44"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:text="Köyden şehre göçü ilk kez işleyen: Orhan Kemal "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button43"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="Tanzimat’tan sonraki edebiyatımızın ilk kadın şairi: Nigar Hanım "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button42"
+                android:layout_width="match_parent"
+                android:layout_height="54dp"
+                android:text="Divan edebiyatında çocuklar için yazılan ilk eser: Nabi’nin “Hayriye”si "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button41"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:text="Matbaada basılan ilk yapıt: “Vankulu Lügati” "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+
+            <Button
+                android:id="@+id/button40"
+                android:layout_width="match_parent"
+                android:layout_height="51dp"
+                android:text="Sahnelenen ilk tiyatro yapıtı: Namık Kemal’in “Vatan yahut Silistre”si "
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="0dp"
+                android:background="@drawable/button_background2"/>
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

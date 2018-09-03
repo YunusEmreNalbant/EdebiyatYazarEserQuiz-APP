@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".YazarEser">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/yazareserButton1"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textAlignment="center"
+                android:textColor="@android:color/background_light"
+                android:textStyle="bold"
+
+                />
+
+            <Button
+                android:id="@+id/yazareserButton2"
+                android:layout_width="match_parent"
+                android:layout_height="302dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textColor="@android:color/background_light"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/yazareserButton3"
+                android:layout_width="match_parent"
+
+                android:layout_height="425dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textColor="@android:color/background_light"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/yazareserButton4"
+                android:layout_width="match_parent"
+                android:layout_height="397dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textColor="@android:color/background_light"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/yazareserButton5"
+                android:layout_width="match_parent"
+                android:layout_height="468dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textColor="@android:color/background_light"
+                android:textSize="11sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/yazareserButton6"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textColor="@android:color/background_light"
+                android:textStyle="bold"
+                />
+
+            <Button
+                android:id="@+id/yazareserButton7"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textColor="@android:color/background_light"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/yazareserButton8"
+                android:layout_width="match_parent"
+                android:layout_height="482dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textColor="@android:color/background_light"
+                android:textSize="11sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/yazareserButton9"
+                android:layout_width="match_parent"
+                android:layout_height="526dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textColor="@android:color/background_light"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/yazareserButton10"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textColor="@android:color/background_light"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/yazareserButton11"
+                android:layout_width="match_parent"
+                android:layout_height="530dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textColor="@android:color/background_light"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/yazareserButton12"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textColor="@android:color/background_light"
+                android:textStyle="bold"
+                />
+
+            <Button
+                android:id="@+id/yazareserButton13"
+                android:layout_width="match_parent"
+                android:layout_height="443dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textColor="@android:color/background_light"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/yazareserButton14"
+                android:layout_width="match_parent"
+                android:layout_height="543dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textColor="@android:color/background_light"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/yazareserButton15"
+                android:layout_width="match_parent"
+                android:layout_height="426dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textColor="@android:color/background_light"
+                android:textSize="14sp"
+
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/yazareserButton16"
+                android:layout_width="match_parent"
+                android:layout_height="500dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textColor="@android:color/background_light"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/yazareserButton17"
+                android:layout_width="match_parent"
+                android:layout_height="640dp"
+                android:background="@drawable/yesiltahta"
+                android:fontFamily="@font/architects_daughter"
+                android:textColor="@android:color/background_light"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>
